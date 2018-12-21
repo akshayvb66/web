@@ -1,0 +1,17 @@
+a{
+color: green;text-decoration: none;
+}
+p{
+    color: orangered;
+    font-family:sans-serif;
+}
+h1{
+    color: greenyellow;
+}
+li{
+    display: inline;
+
+}
+ul{
+    width:900px;
+}

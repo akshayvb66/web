@@ -1,0 +1,13 @@
+img {
+float:left;
+}
+aside{
+   position:relative;
+   left:100px;
+   color: green;
+}
+li{
+    display:inline;
+}
+ul li{text-decoration: none;
+}
